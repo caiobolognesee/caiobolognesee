@@ -1,15 +1,18 @@
 # Caio Bolognese
 
-Engenheiro de Software Fullstack (4 anos) focado em aplicações web e APIs.
+Fullstack Software Engineer (4+ years) building web applications and APIs.
 
-- Stack principal: JavaScript/TypeScript • Vue/Nuxt • Node.js
-- Atualmente: construindo um portfólio com o mesmo produto implementado em múltiplas stacks (TS/Go/Python) para comparar arquitetura, tooling e performance.
+- Main stack: JavaScript/TypeScript • Vue/Nuxt • Node.js
+- Currently: creating a multi-stack portfolio by implementing the same product in different backends (TypeScript/Go/Python) to compare architecture, tooling, and performance.
 
-## Projetos em destaque
-- DevFit (TS): em andamento
-- DevFit (Go): em breve
-- DevFit (Python/FastAPI): em breve
+## Featured projects
+- DevFit (TypeScript) — in progress
+- DevFit (Go) — coming soon
+- DevFit (Python/FastAPI) — coming soon
 
-## Contato
-- LinkedIn: (https://www.linkedin.com/in/caio-bolognese-43a41613b/)
+## Tech
+TypeScript • JavaScript • Vue 2/3 • Nuxt • Node.js • Laravel • Flutter • PostgreSQL • Docker • GitHub Actions
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/caio-bolognese-43a41613b
 - Email: bolognese8891@hotmail.com
