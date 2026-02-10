@@ -1,16 +1,15 @@
-## Hi there 👋
+# Caio Bolognese
 
-<!--
-**caiobolognesee/caiobolognesee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software Fullstack (4 anos) focado em aplicações web e APIs.
 
-Here are some ideas to get you started:
+- Stack principal: JavaScript/TypeScript • Vue/Nuxt • Node.js
+- Atualmente: construindo um portfólio com o mesmo produto implementado em múltiplas stacks (TS/Go/Python) para comparar arquitetura, tooling e performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- DevFit (TS): em andamento
+- DevFit (Go): em breve
+- DevFit (Python/FastAPI): em breve
+
+## Contato
+- LinkedIn: (https://www.linkedin.com/in/caio-bolognese-43a41613b/)
+- Email: bolognese8891@hotmail.com
